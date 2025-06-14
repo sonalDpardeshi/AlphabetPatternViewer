@@ -1,7 +1,5 @@
 # AlphabetPatternViewer
 
-# Alphabet Pattern Viewer
-
 This is a mini project that displays **English Alphabets (A-Z)** on a web page. Each letter has an associated **Java pattern program**, which can be viewed by clicking the "Code" button below each alphabet image.
 
 # Features
