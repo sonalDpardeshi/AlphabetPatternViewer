@@ -1,0 +1,40 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+.main-container .first_line,.second_line,.third_line,.fourth_line
+{
+	width:100%;
+	border:2px solid blue;
+	display:flex;
+	box-sizing:border-box;
+	padding:10px;
+	justify-content:space-between;
+}
+.A
+{
+	width:10%;
+	border:1px solid pink;	
+}
+.A img
+{
+	width:100%;
+	box-sizing:border-box;
+	height:70%;
+	background-color:none;
+}
+.A .btn
+{
+	width:100%;
+    padding:10px;
+	font-size:20px;
+	border-radius:10px;
+	border:solid green;
+	background-color:#4287f5;
+}
+.A .btn a
+{
+	text-decoration:none;
+	color:#0c0c0d;
+}
